@@ -1,0 +1,23 @@
+.llaves {
+    color: rgb(255, 0, 0);
+}
+
+.corchetes{
+    color: rgb(217, 61, 212);
+}
+
+.int {
+    color: rgb(0, 89, 255);
+}
+
+.string{
+    color:blueviolet;
+}
+
+.guion{
+    color: chartreuse;
+}
+
+.bool{
+    color: rgb(100, 18, 96);
+}
